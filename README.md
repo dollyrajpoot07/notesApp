@@ -42,3 +42,4 @@ A simple Notes application built with **Next.js** and **React** that lets you wr
 - Sync with backend API
 
 ---
+<img width="647" alt="Screenshot 2025-06-22 at 7 57 12 PM" src="https://github.com/user-attachments/assets/9a07d839-0416-42b2-a0fd-07f857a60ca4" />
